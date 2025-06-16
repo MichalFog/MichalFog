@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi 👋, I'm Michal Fogel</h1>
+<h1 align="center">Hi 👋, I'm Michal Fogel</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -17,9 +17,6 @@
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=MichalFog&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br>
-![](https://github-contributor-stats.vercel.app/api?username=MichalFog&limit=5&theme=transparent&border_radius=10&combine_all_yearly_contributions=true)
-<br>
-
 (Languages used) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalFog&layout=compact&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=MichalFog.v&icon=0&theme=dark&border_radius=10)](https://visitcount.itsvg.in)

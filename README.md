@@ -4,9 +4,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,styledcomponents,js,typescript,react,angular&perline=8)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,styledcomponents,js,typescript,react,angular,python&perline=9)]()
 <br>
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,py,nodejs,postman,mongodb,git&perline=8)]()
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,python,nodejs,postman,mongodb,git&perline=8)]()
 <br>
 [![My Skills](https://skillicons.dev/icons?i=bitbucket,aws,postgres,sqlite,vscode,visualstudio,idea,pycharm)]()
 <br>
@@ -24,3 +24,4 @@
 <div align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+

@@ -17,7 +17,7 @@
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=MichalFog&theme=transparent&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br>
-(Languages used) Python, Java, C#, JavaScript, TypeScript, HTML, CSS, SQL
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalFog&layout=compact&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=MichalFog.v&icon=0&theme=dark&border_radius=10)](https://visitcount.itsvg.in)
@@ -25,5 +25,6 @@
 <div align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
 
 
